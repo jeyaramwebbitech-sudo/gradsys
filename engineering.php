@@ -37,7 +37,7 @@
         </section>
 
         <!-- services style 01 -->
-        <section class="rs-elements-services-area rs-services-three section-space has-theme-orange">
+        <section class="rs-elements-services-area eng-serv rs-services-three section-space has-theme-orange">
             <div class="container">
                 <div class="row g-5 process-counts">
                     <!-- Item 1 -->
@@ -46,7 +46,7 @@
                             <a href="conceptual-studies-feed.php" class="rs-services-item">
                                 <div class="rs-services-thumb">
                                     <a href="conceptual-studies-feed.php"> <img
-                                            src="assets/images/services/services-thumb-08.png" alt="image"></a>
+                                            src="assets/images/engineering/conceptual.jpg" alt="image"></a>
                                 </div>
                                 <div class="rs-services-content">
                                     <h5 class="rs-services-title"><a href="conceptual-studies-feed.php">Conceptual studies and FEED</a></h5>
@@ -83,7 +83,7 @@
                             <div class="rs-services-item">
                                 <div class="rs-services-thumb">
                                     <a href="design-detail-engineering.php"> <img
-                                            src="assets/images/services/services-thumb-09.png" alt="image"></a>
+                                            src="assets/images/engineering/design.jpg" alt="image"></a>
                                 </div>
                                 <div class="rs-services-content">
                                     <h5 class="rs-services-title"><a href="design-detail-engineering.php">Design & Detail Engineering</a></h5>
@@ -121,7 +121,7 @@
                             <div class="rs-services-item">
                                 <div class="rs-services-thumb">
                                     <a href="analysis-simulation-engineering.php"> <img
-                                            src="assets/images/services/services-thumb-14.png" alt="image"></a>
+                                            src="assets/images/engineering/analysis.jpg" alt="image"></a>
                                 </div>
                                 <div class="rs-services-content">
                                     <h5 class="rs-services-title"><a href="analysis-simulation-engineering.php">Analysis & simulation Engineering</a></h5>
@@ -159,7 +159,7 @@
                             <div class="rs-services-item">
                                 <div class="rs-services-thumb">
                                     <a href="plant-engineering.php"> <img
-                                            src="assets/images/services/services-thumb-15.png" alt="image"></a>
+                                            src="assets/images/engineering/plant.jpg" alt="image"></a>
                                 </div>
                                 <div class="rs-services-content">
                                     <h5 class="rs-services-title"><a href="plant-engineering.php">Plant Engineering</a></h5>
@@ -197,7 +197,7 @@
                             <div class="rs-services-item">
                                 <div class="rs-services-thumb">
                                     <a href="bim-engineering.php"> <img
-                                            src="assets/images/services/services-thumb-16.png" alt="image"></a>
+                                            src="assets/images/engineering/BIM.jpg" alt="image"></a>
                                 </div>
                                 <div class="rs-services-content">
                                     <h5 class="rs-services-title"><a href="bim-engineering.php">BIM Engineering</a></h5>
@@ -235,7 +235,7 @@
                             <div class="rs-services-item">
                                 <div class="rs-services-thumb">
                                     <a href="safety-engineering.php"> <img
-                                            src="assets/images/services/services-thumb-31.png" alt="image"></a>
+                                            src="assets/images/engineering/safety.jpg" alt="image"></a>
                                 </div>
                                 <div class="rs-services-content">
                                     <h5 class="rs-services-title"><a href="safety-engineering.php">Safety Engineering</a></h5>
@@ -273,7 +273,7 @@
                             <div class="rs-services-item">
                                 <div class="rs-services-thumb">
                                     <a href="asset-life-cycle-management.php"> <img
-                                            src="assets/images/services/services-thumb-32.png" alt="image"></a>
+                                            src="assets/images/engineering/asset.jpg" alt="image"></a>
                                 </div>
                                 <div class="rs-services-content">
                                     <h5 class="rs-services-title"><a href="asset-life-cycle-management.php">Asset life cycle management</a></h5>

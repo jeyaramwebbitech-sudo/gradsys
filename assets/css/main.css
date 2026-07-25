@@ -33529,7 +33529,7 @@ a.ui-button:active {
 
 
 
- 
+
 .equipment-list {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -33571,4 +33571,14 @@ a.ui-button:active {
   .equipment-list {
     grid-template-columns: 1fr;
   }
+}
+
+
+
+.eng-serv .rs-services-thumb img {
+  max-height: 200px;
+}
+
+.industre .rs-portfolio-thumb img {
+  height: 170px;
 }
