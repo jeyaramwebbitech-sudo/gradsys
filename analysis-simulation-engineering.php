@@ -17,7 +17,7 @@
             <div class="rs-breadcrumb-bg" data-background="assets/images/new-images/about-banner.jpg"></div>
             <div class="container">
                 <div class="row">
-                    <div class="col-xxl-6 col-xl-8 col-lg-8">
+                    <div class="col-xxl-12 col-xl-12 col-lg-12">
                         <div class="rs-breadcrumb-content-wrapper">
                             <div class="rs-breadcrumb-title-wrapper">
                                 <h1 class="rs-breadcrumb-title">Analysis & Simulation Engineering</h1>
@@ -50,7 +50,7 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="rs-about-thumb wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
-                            <div class="rs-about-bg-thumb" data-background="assets/images/about/about-thumb-01.png">
+                            <div class="rs-about-bg-thumb" data-background="assets/images/engineering/analysis.jpg">
                             </div>
                         </div>
                     </div>

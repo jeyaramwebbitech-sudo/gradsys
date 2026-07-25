@@ -49,7 +49,7 @@
                     <div class="col-xl-12">
                         <div class="row align-items-center">
                             <div class="col-lg-4">
-                                <img decoding="async" src="assets/images/about/about-thumb-22.png" alt="image">
+                                <img decoding="async" src="assets/images/epic/mechanical.jpg" alt="image">
                             </div>
                             <div class="col-lg-8">
                                 <div class="rs-section-title-wrapper">
@@ -291,7 +291,7 @@
                     <div class="col-xl-5 col-lg-5">
                         <div class="rs-why-choose-thumb-wrapper">
                             <div class="rs-why-choose-thumb">
-                                <img src="assets/images/why-choose/why-choose-thumb-01.png" alt="image">
+                                <img src="assets/images/epic/mechanical2.jpg" alt="image">
                             </div>
                         </div>
                     </div>

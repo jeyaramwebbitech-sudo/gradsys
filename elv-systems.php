@@ -135,7 +135,7 @@
                                         <div class="row g-5 align-items-center">
                                             <div class="col-xl-5 col-lg-5">
                                                 <div class="rs-services-tab-content-thumb has-clip">
-                                                    <img src="assets/images/services/services-thumb-02.png" alt="image">
+                                                    <img src="assets/images/trading/elv/1.jpg" alt="image">
                                                 </div>
                                             </div>
                                             <div class="col-xl-7 col-lg-7">
@@ -163,7 +163,7 @@
                                         <div class="row g-5 align-items-center">
                                             <div class="col-xl-5 col-lg-5">
                                                 <div class="rs-services-tab-content-thumb has-clip">
-                                                    <img src="assets/images/services/services-thumb-02.png" alt="image">
+                                                    <img src="assets/images/trading/elv/2.jpg" alt="image">
                                                 </div>
                                             </div>
                                             <div class="col-xl-7 col-lg-7">
@@ -191,7 +191,7 @@
                                         <div class="row g-5 align-items-center">
                                             <div class="col-xl-5 col-lg-5">
                                                 <div class="rs-services-tab-content-thumb has-clip">
-                                                    <img src="assets/images/services/services-thumb-02.png" alt="image">
+                                                    <img src="assets/images/trading/elv/3.jpg" alt="image">
                                                 </div>
                                             </div>
                                             <div class="col-xl-7 col-lg-7">
@@ -219,7 +219,7 @@
                                         <div class="row g-5 align-items-center">
                                             <div class="col-xl-5 col-lg-5">
                                                 <div class="rs-services-tab-content-thumb has-clip">
-                                                    <img src="assets/images/services/services-thumb-02.png" alt="image">
+                                                    <img src="assets/images/trading/elv/4.jpg" alt="image">
                                                 </div>
                                             </div>
                                             <div class="col-xl-7 col-lg-7">
@@ -247,7 +247,7 @@
                                         <div class="row g-5 align-items-center">
                                             <div class="col-xl-5 col-lg-5">
                                                 <div class="rs-services-tab-content-thumb has-clip">
-                                                    <img src="assets/images/services/services-thumb-02.png" alt="image">
+                                                    <img src="assets/images/trading/elv/5.jpg" alt="image">
                                                 </div>
                                             </div>
                                             <div class="col-xl-7 col-lg-7">
@@ -275,7 +275,7 @@
                                         <div class="row g-5 align-items-center">
                                             <div class="col-xl-5 col-lg-5">
                                                 <div class="rs-services-tab-content-thumb has-clip">
-                                                    <img src="assets/images/services/services-thumb-02.png" alt="image">
+                                                    <img src="assets/images/trading/elv/6.jpg" alt="image">
                                                 </div>
                                             </div>
                                             <div class="col-xl-7 col-lg-7">
@@ -302,7 +302,7 @@
                                         <div class="row g-5 align-items-center">
                                             <div class="col-xl-5 col-lg-5">
                                                 <div class="rs-services-tab-content-thumb has-clip">
-                                                    <img src="assets/images/services/services-thumb-02.png" alt="image">
+                                                    <img src="assets/images/trading/elv/7.jpg" alt="image">
                                                 </div>
                                             </div>
                                             <div class="col-xl-7 col-lg-7">

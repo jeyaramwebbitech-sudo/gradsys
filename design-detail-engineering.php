@@ -50,7 +50,7 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="rs-about-thumb wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
-                            <div class="rs-about-bg-thumb" data-background="assets/images/about/about-thumb-01.png">
+                            <div class="rs-about-bg-thumb" data-background="assets/images/engineering/design.jpg">
                             </div>
                         </div>
                     </div>
