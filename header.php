@@ -261,46 +261,7 @@
                               </span>
                           </button>
                       </div>
-                  </div>
-                  <div class="offcanvas-about mb-30 d-none d-sm-block">
-                      <p> Industrie is a modern factory website. specifically designed for who need construction,
-                          firms, oil, architecture and any other small business.
-                      </p>
-                  </div>
-                  <div class="offcanvas-gallery d-none d-sm-block">
-                      <div class="offcanvas-gallery-thumb-wrapper">
-                          <div class="offcanvas-popup-thumb">
-                              <a class="popup-image" href="assets/images/gallery/gallery-thumb-01.png">
-                                  <img src="assets/images/gallery/gallery-thumb-01.png" alt="image">
-                              </a>
-                          </div>
-                          <div class="offcanvas-popup-thumb">
-                              <a class="popup-image" href="assets/images/gallery/gallery-thumb-02.png">
-                                  <img src="assets/images/gallery/gallery-thumb-02.png" alt="image">
-                              </a>
-                          </div>
-                          <div class="offcanvas-popup-thumb">
-                              <a class="popup-image" href="assets/images/gallery/gallery-thumb-03.png">
-                                  <img src="assets/images/gallery/gallery-thumb-03.png" alt="image">
-                              </a>
-                          </div>
-                          <div class="offcanvas-popup-thumb">
-                              <a class="popup-image" href="assets/images/gallery/gallery-thumb-04.png">
-                                  <img src="assets/images/gallery/gallery-thumb-04.png" alt="image">
-                              </a>
-                          </div>
-                          <div class="offcanvas-popup-thumb">
-                              <a class="popup-image" href="assets/images/gallery/gallery-thumb-05.png">
-                                  <img src="assets/images/gallery/gallery-thumb-05.png" alt="image">
-                              </a>
-                          </div>
-                          <div class="offcanvas-popup-thumb">
-                              <a class="popup-image" href="assets/images/gallery/gallery-thumb-01.png">
-                                  <img src="assets/images/gallery/gallery-thumb-01.png" alt="image">
-                              </a>
-                          </div>
-                      </div>
-                  </div>
+                  </div>  
                   <div class="mobile-menu">
                       <div class="rs-offcanvas-menu mb-25">
                           <nav></nav>
