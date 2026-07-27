@@ -406,7 +406,7 @@
                                     </div>
                                     <div class="rs-portfolio-content">
                                         <h5 class="rs-portfolio-title underline has-white"> <a
-                                                href="portfolio-details.html">Oil & Gas</a></h5>
+                                                href="#">Oil & Gas</a></h5>
                                     </div>
                                 </div>
                             </div>
@@ -417,7 +417,7 @@
                                     </div>
                                     <div class="rs-portfolio-content">
                                         <h5 class="rs-portfolio-title underline has-white"> <a
-                                                href="portfolio-details.html">Petrochemical</a></h5>
+                                                href="#">Petrochemical</a></h5>
                                     </div>
                                 </div>
                             </div>
@@ -428,7 +428,7 @@
                                     </div>
                                     <div class="rs-portfolio-content">
                                         <h5 class="rs-portfolio-title underline has-white"> <a
-                                                href="portfolio-details.html">Power Generation</a></h5>
+                                                href="#">Power Generation</a></h5>
                                     </div>
                                 </div>
                             </div>
@@ -439,7 +439,7 @@
                                     </div>
                                     <div class="rs-portfolio-content">
                                         <h5 class="rs-portfolio-title underline has-white"> <a
-                                                href="portfolio-details.html">Water & Wastewater</a></h5>
+                                                href="#">Water & Wastewater</a></h5>
                                     </div>
                                 </div>
                             </div>
@@ -450,7 +450,7 @@
                                     </div>
                                     <div class="rs-portfolio-content">
                                         <h5 class="rs-portfolio-title underline has-white"> <a
-                                                href="portfolio-details.html">Utilities</a></h5>
+                                                href="#">Utilities</a></h5>
                                     </div>
                                 </div>
                             </div>
@@ -461,7 +461,7 @@
                                     </div>
                                     <div class="rs-portfolio-content">
                                         <h5 class="rs-portfolio-title underline has-white"> <a
-                                                href="portfolio-details.html">Industrial Manufacturing</a></h5>
+                                                href="#">Industrial Manufacturing</a></h5>
                                     </div>
                                 </div>
                             </div>
@@ -472,7 +472,7 @@
                                     </div>
                                     <div class="rs-portfolio-content">
                                         <h5 class="rs-portfolio-title underline has-white"> <a
-                                                href="portfolio-details.html">Renewable Energy</a></h5>
+                                                href="#">Renewable Energy</a></h5>
                                     </div>
                                 </div>
                             </div>
@@ -483,7 +483,7 @@
                                     </div>
                                     <div class="rs-portfolio-content">
                                         <h5 class="rs-portfolio-title underline has-white"> <a
-                                                href="portfolio-details.html">Infrastructure</a></h5>
+                                                href="#">Infrastructure</a></h5>
                                     </div>
                                 </div>
                             </div>

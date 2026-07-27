@@ -25,9 +25,9 @@
                                <div class="rs-footer-widget-content">
                                    <div class="rs-footer-widget-links">
                                        <ul>
-                                           <li><a href="#">Home</a> </li>
-                                           <li><a href="#">About Us</a> </li>  
-                                           <li><a href="#">Contact</a></li>
+                                           <li><a href="index.php">Home</a> </li>
+                                           <li><a href="about.php">About Us</a> </li>  
+                                           <li><a href="contact.php">Contact</a></li>
                                        </ul>
                                    </div>
                                </div>
@@ -39,9 +39,9 @@
                                <div class="rs-footer-widget-content">
                                    <div class="rs-footer-widget-links">
                                        <ul>
-                                           <li><a href="#">Engineering Services</a></li>
-                                           <li><a href="#">EPC Services</a></li>
-                                           <li><a href="#">Trading Services</a></li>
+                                           <li><a href="engineering.php">Engineering Services</a></li>
+                                           <li><a href="epic.php">EPIC Services</a></li>
+                                           <li><a href="trading.php">Trading Services</a></li>
                                        </ul>
                                    </div>
                                </div>

@@ -22565,7 +22565,14 @@ only screen and (max-width: 575px) {
   transition: all 0.5s ease;
   min-height: 180px;
   object-fit: cover;
-}
+}  
+
+.eng-home .rs-services-thumb img {
+  width: 100%;
+  transition: all 0.5s ease;
+  max-height: 180px;
+  object-fit: cover;
+}  
 
 .rs-services-two .rs-services-btn-wrapper {
   display: flex;

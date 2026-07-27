@@ -34,7 +34,7 @@
                                                     </div>
                                                     <div class="rs-banner-btn">
                                                         <a class="rs-btn has-theme-orange has-icon has-bg"
-                                                            href="#0">Explore
+                                                            href="engineering.php">Explore
                                                             More
                                                             <span class="icon-box">
                                                                 <svg class="icon-first"
@@ -69,7 +69,7 @@
                                     <div class="row justify-content-center">
                                         <div class="col-xxl-8 col-xl-9 col-lg-10 col-md-10">
                                             <div class="rs-banner-wrapper">
-                                               
+
                                                 <div class="rs-banner-content">
                                                     <h1 class="rs-banner-title">Intelligent Digital Solutions
                                                     </h1>
@@ -80,7 +80,7 @@
                                                     <div class="rs-banner-info-btn">
                                                         <div class="rs-banner-btn">
                                                             <a class="rs-btn has-theme-orange has-icon has-bg"
-                                                                href="#0">Explore More
+                                                                href="epic.php">Explore More
                                                                 <span class="icon-box">
                                                                     <svg class="icon-first"
                                                                         xmlns="http://www.w3.org/2000/svg"
@@ -106,7 +106,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div> 
+                        </div>
                     </div>
                     <!-- If we need navigation buttons -->
                     <div class="rs-banner-navigation">
@@ -181,7 +181,7 @@
 
                                 <div class="rs-about-author-info mt-4">
                                     <div class="rs-about-btn">
-                                        <a class="rs-btn has-theme-orange has-icon has-bg" href="#0">Explore
+                                        <a class="rs-btn has-theme-orange has-icon has-bg" href="about.php">Explore
                                             More
                                             <span class="icon-box">
                                                 <svg class="icon-first" xmlns="http://www.w3.org/2000/svg"
@@ -219,7 +219,7 @@
         <!-- about area end -->
 
         <!-- services area start -->
-        <section class="rs-services-area rs-services-two primary-bg has-theme-orange rs-swiper">
+        <section class="rs-services-area rs-services-two primary-bg has-theme-orange rs-swiper eng-home">
             <div class="rs-services-bg-thumb" data-background="assets/images/bg/services-bg-01.png"></div>
             <div class="container">
                 <div class="row g-5">
@@ -261,38 +261,29 @@
                                 data-item-md="2" data-item-sm="1" data-item-xs="1" data-item-mobile="1" data-margin="30"
                                 data-margin-xl="30">
                                 <div class="swiper-wrapper">
+
+                                    <!-- 01: Conceptual Studies & FEED -->
                                     <div class="swiper-slide">
                                         <div class="rs-services-item">
                                             <div class="rs-services-thumb">
-                                                <a href="#0"> <img src="assets/images/new-images/ser-1.jpg" alt="image"></a>
+                                                <a href="conceptual-studies-feed.php"> <img src="assets/images/new-images/ser-1.jpg" alt="Conceptual Studies & FEED"></a>
                                             </div>
                                             <div class="rs-services-content">
-                                                <h5 class="rs-services-title"><a href="#0">Conceptual Studies & Feed</a></h5>
-                                                <p class="descrip">Consectetur ipiscing elit tellus ullam corper mattis
+                                                <h5 class="rs-services-title"><a href="conceptual-studies-feed.php">Conceptual Studies & FEED</a></h5>
+                                                <p class="descrip">Establishing the technical and operational foundation for successful project delivery.
                                                 </p>
                                                 <div class="rs-services-btn-wrapper">
                                                     <div class="rs-services-text-btn underline">
-                                                        <a class="rs-text-btn has-theme-red"
-                                                            href="#0">View
-                                                            Details</a>
+                                                        <a class="rs-text-btn has-theme-red" href="conceptual-studies-feed.php">View Details</a>
                                                     </div>
                                                     <div class="rs-services-btn">
-                                                        <a class="rs-square-btn has-icon has-light-bg"
-                                                            href="#0">
+                                                        <a class="rs-square-btn has-icon has-light-bg" href="conceptual-studies-feed.php">
                                                             <span class="icon-box">
-                                                                <svg class="icon-first"
-                                                                    xmlns="http://www.w3.org/2000/svg" width="12"
-                                                                    height="10" viewBox="0 0 12 10" fill="none">
-                                                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                        d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z"
-                                                                        fill="#616161"></path>
+                                                                <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="12" height="10" viewBox="0 0 12 10" fill="none">
+                                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z" fill="#616161"></path>
                                                                 </svg>
-                                                                <svg class="icon-second"
-                                                                    xmlns="http://www.w3.org/2000/svg" width="12"
-                                                                    height="10" viewBox="0 0 12 10" fill="none">
-                                                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                        d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z"
-                                                                        fill="#616161"></path>
+                                                                <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="12" height="10" viewBox="0 0 12 10" fill="none">
+                                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z" fill="#616161"></path>
                                                                 </svg>
                                                             </span>
                                                         </a>
@@ -301,40 +292,29 @@
                                             </div>
                                         </div>
                                     </div>
+
+                                    <!-- 02: Design & Detail Engineering -->
                                     <div class="swiper-slide">
                                         <div class="rs-services-item">
                                             <div class="rs-services-thumb">
-                                                <a href="#0"><img
-                                                        src="assets/images/new-images/ser-2.jpg"
-                                                        alt="image"></a>
+                                                <a href="design-detail-engineering.php"><img src="assets/images/new-images/ser-2.jpg" alt="Design & Detail Engineering"></a>
                                             </div>
                                             <div class="rs-services-content">
-                                                <h5 class="rs-services-title"><a href="#0">Design & Detailed Engineering</a></h5>
-                                                <p class="descrip">Consectetur ipiscing elit tellus ullam corper mattis
+                                                <h5 class="rs-services-title"><a href="design-detail-engineering.php">Design & Detailed Engineering</a></h5>
+                                                <p class="descrip">Multidisciplinary engineering solutions converting concepts into construction-ready documents.
                                                 </p>
                                                 <div class="rs-services-btn-wrapper">
                                                     <div class="rs-services-text-btn underline">
-                                                        <a class="rs-text-btn has-theme-red"
-                                                            href="#0">View
-                                                            Details</a>
+                                                        <a class="rs-text-btn has-theme-red" href="design-detail-engineering.php">View Details</a>
                                                     </div>
                                                     <div class="rs-services-btn">
-                                                        <a class="rs-square-btn has-icon has-light-bg"
-                                                            href="#0">
+                                                        <a class="rs-square-btn has-icon has-light-bg" href="design-detail-engineering.php">
                                                             <span class="icon-box">
-                                                                <svg class="icon-first"
-                                                                    xmlns="http://www.w3.org/2000/svg" width="12"
-                                                                    height="10" viewBox="0 0 12 10" fill="none">
-                                                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                        d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z"
-                                                                        fill="#616161"></path>
+                                                                <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="12" height="10" viewBox="0 0 12 10" fill="none">
+                                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z" fill="#616161"></path>
                                                                 </svg>
-                                                                <svg class="icon-second"
-                                                                    xmlns="http://www.w3.org/2000/svg" width="12"
-                                                                    height="10" viewBox="0 0 12 10" fill="none">
-                                                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                        d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z"
-                                                                        fill="#616161"></path>
+                                                                <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="12" height="10" viewBox="0 0 12 10" fill="none">
+                                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z" fill="#616161"></path>
                                                                 </svg>
                                                             </span>
                                                         </a>
@@ -343,40 +323,29 @@
                                             </div>
                                         </div>
                                     </div>
+
+                                    <!-- 03: Analysis & Simulation Engineering -->
                                     <div class="swiper-slide">
                                         <div class="rs-services-item">
                                             <div class="rs-services-thumb">
-                                                <a href="#0"><img
-                                                        src="assets/images/new-images/ser-3.jpg"
-                                                        alt="image"></a>
+                                                <a href="analysis-simulation-engineering.php"><img src="assets/images/engineering/analysis.jpg" alt="Analysis & Simulation Engineering"></a>
                                             </div>
                                             <div class="rs-services-content">
-                                                <h5 class="rs-services-title"><a href="#0"> Building Information Modelling</a></h5>
-                                                <p class="descrip">Consectetur ipiscing elit tellus ullam corper mattis
+                                                <h5 class="rs-services-title"><a href="analysis-simulation-engineering.php">Analysis & Simulation Engineering</a></h5>
+                                                <p class="descrip">Advanced simulation capabilities to validate designs and optimize performance.
                                                 </p>
                                                 <div class="rs-services-btn-wrapper">
                                                     <div class="rs-services-text-btn underline">
-                                                        <a class="rs-text-btn has-theme-red"
-                                                            href="#0">View
-                                                            Details</a>
+                                                        <a class="rs-text-btn has-theme-red" href="analysis-simulation-engineering.php">View Details</a>
                                                     </div>
                                                     <div class="rs-services-btn">
-                                                        <a class="rs-square-btn has-icon has-light-bg"
-                                                            href="#0">
+                                                        <a class="rs-square-btn has-icon has-light-bg" href="analysis-simulation-engineering.php">
                                                             <span class="icon-box">
-                                                                <svg class="icon-first"
-                                                                    xmlns="http://www.w3.org/2000/svg" width="12"
-                                                                    height="10" viewBox="0 0 12 10" fill="none">
-                                                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                        d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z"
-                                                                        fill="#616161"></path>
+                                                                <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="12" height="10" viewBox="0 0 12 10" fill="none">
+                                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z" fill="#616161"></path>
                                                                 </svg>
-                                                                <svg class="icon-second"
-                                                                    xmlns="http://www.w3.org/2000/svg" width="12"
-                                                                    height="10" viewBox="0 0 12 10" fill="none">
-                                                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                        d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z"
-                                                                        fill="#616161"></path>
+                                                                <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="12" height="10" viewBox="0 0 12 10" fill="none">
+                                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z" fill="#616161"></path>
                                                                 </svg>
                                                             </span>
                                                         </a>
@@ -385,40 +354,29 @@
                                             </div>
                                         </div>
                                     </div>
+
+                                    <!-- 04: Plant Engineering -->
                                     <div class="swiper-slide">
                                         <div class="rs-services-item">
                                             <div class="rs-services-thumb">
-                                                <a href="#0">
-                                                    <img src="assets/images/new-images/ser-4.jpg" alt="image">
-                                                </a>
+                                                <a href="plant-engineering.php"><img src="assets/images/new-images/ser-4.jpg" alt="Plant Engineering"></a>
                                             </div>
                                             <div class="rs-services-content">
-                                                <h5 class="rs-services-title"><a href="#0"> Plant Engineering</a></h5>
-                                                <p class="descrip">Consectetur ipiscing elit tellus ullam corper mattis
+                                                <h5 class="rs-services-title"><a href="plant-engineering.php">Plant Engineering</a></h5>
+                                                <p class="descrip">Complete engineering solutions covering greenfield developments and brownfield modifications.
                                                 </p>
                                                 <div class="rs-services-btn-wrapper">
                                                     <div class="rs-services-text-btn underline">
-                                                        <a class="rs-text-btn has-theme-red"
-                                                            href="#0">View
-                                                            Details</a>
+                                                        <a class="rs-text-btn has-theme-red" href="plant-engineering.php">View Details</a>
                                                     </div>
                                                     <div class="rs-services-btn">
-                                                        <a class="rs-square-btn has-icon has-light-bg"
-                                                            href="#0">
+                                                        <a class="rs-square-btn has-icon has-light-bg" href="plant-engineering.php">
                                                             <span class="icon-box">
-                                                                <svg class="icon-first"
-                                                                    xmlns="http://www.w3.org/2000/svg" width="12"
-                                                                    height="10" viewBox="0 0 12 10" fill="none">
-                                                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                        d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z"
-                                                                        fill="#616161"></path>
+                                                                <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="12" height="10" viewBox="0 0 12 10" fill="none">
+                                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z" fill="#616161"></path>
                                                                 </svg>
-                                                                <svg class="icon-second"
-                                                                    xmlns="http://www.w3.org/2000/svg" width="12"
-                                                                    height="10" viewBox="0 0 12 10" fill="none">
-                                                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                        d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z"
-                                                                        fill="#616161"></path>
+                                                                <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="12" height="10" viewBox="0 0 12 10" fill="none">
+                                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z" fill="#616161"></path>
                                                                 </svg>
                                                             </span>
                                                         </a>
@@ -427,38 +385,29 @@
                                             </div>
                                         </div>
                                     </div>
+
+                                    <!-- 05: BIM Engineering -->
                                     <div class="swiper-slide">
                                         <div class="rs-services-item">
                                             <div class="rs-services-thumb">
-                                                <a href="#0"><img src="assets/images/new-images/ser-5.jpg" alt="image"></a>
+                                                <a href="bim-engineering.php"><img src="assets/images/engineering/BIM.jpg" alt="BIM Engineering"></a>
                                             </div>
                                             <div class="rs-services-content">
-                                                <h5 class="rs-services-title"><a href="#0"> Safety & Risk Engineering</a></h5>
-                                                <p class="descrip">Consectetur ipiscing elit tellus ullam corper mattis
+                                                <h5 class="rs-services-title"><a href="bim-engineering.php">BIM Engineering</a></h5>
+                                                <p class="descrip">Leveraging Building Information Modelling to enhance construction efficiency and coordination.
                                                 </p>
                                                 <div class="rs-services-btn-wrapper">
                                                     <div class="rs-services-text-btn underline">
-                                                        <a class="rs-text-btn has-theme-red"
-                                                            href="#0">View
-                                                            Details</a>
+                                                        <a class="rs-text-btn has-theme-red" href="bim-engineering.php">View Details</a>
                                                     </div>
                                                     <div class="rs-services-btn">
-                                                        <a class="rs-square-btn has-icon has-light-bg"
-                                                            href="#0">
+                                                        <a class="rs-square-btn has-icon has-light-bg" href="bim-engineering.php">
                                                             <span class="icon-box">
-                                                                <svg class="icon-first"
-                                                                    xmlns="http://www.w3.org/2000/svg" width="12"
-                                                                    height="10" viewBox="0 0 12 10" fill="none">
-                                                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                        d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z"
-                                                                        fill="#616161"></path>
+                                                                <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="12" height="10" viewBox="0 0 12 10" fill="none">
+                                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z" fill="#616161"></path>
                                                                 </svg>
-                                                                <svg class="icon-second"
-                                                                    xmlns="http://www.w3.org/2000/svg" width="12"
-                                                                    height="10" viewBox="0 0 12 10" fill="none">
-                                                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                        d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z"
-                                                                        fill="#616161"></path>
+                                                                <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="12" height="10" viewBox="0 0 12 10" fill="none">
+                                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z" fill="#616161"></path>
                                                                 </svg>
                                                             </span>
                                                         </a>
@@ -467,6 +416,69 @@
                                             </div>
                                         </div>
                                     </div>
+
+                                    <!-- 06: Safety Engineering -->
+                                    <div class="swiper-slide">
+                                        <div class="rs-services-item">
+                                            <div class="rs-services-thumb">
+                                                <a href="safety-engineering.php"><img src="assets/images/engineering/safety.jpg" alt="Safety Engineering"></a>
+                                            </div>
+                                            <div class="rs-services-content">
+                                                <h5 class="rs-services-title"><a href="safety-engineering.php">Safety Engineering</a></h5>
+                                                <p class="descrip">Identifying hazards and evaluating risks to protect people, assets, and the environment.
+                                                </p>
+                                                <div class="rs-services-btn-wrapper">
+                                                    <div class="rs-services-text-btn underline">
+                                                        <a class="rs-text-btn has-theme-red" href="safety-engineering.php">View Details</a>
+                                                    </div>
+                                                    <div class="rs-services-btn">
+                                                        <a class="rs-square-btn has-icon has-light-bg" href="safety-engineering.php">
+                                                            <span class="icon-box">
+                                                                <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="12" height="10" viewBox="0 0 12 10" fill="none">
+                                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z" fill="#616161"></path>
+                                                                </svg>
+                                                                <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="12" height="10" viewBox="0 0 12 10" fill="none">
+                                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z" fill="#616161"></path>
+                                                                </svg>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- 07: Asset Lifecycle Management -->
+                                    <div class="swiper-slide">
+                                        <div class="rs-services-item">
+                                            <div class="rs-services-thumb">
+                                                <a href="asset-life-cycle-management.php"><img src="assets/images/engineering/asset.jpg" alt="Asset Lifecycle Management"></a>
+                                            </div>
+                                            <div class="rs-services-content">
+                                                <h5 class="rs-services-title"><a href="asset-life-cycle-management.php">Asset Lifecycle Management</a></h5>
+                                                <p class="descrip">Optimizing the performance, reliability, and longevity of critical assets.
+                                                </p>
+                                                <div class="rs-services-btn-wrapper">
+                                                    <div class="rs-services-text-btn underline">
+                                                        <a class="rs-text-btn has-theme-red" href="asset-life-cycle-management.php">View Details</a>
+                                                    </div>
+                                                    <div class="rs-services-btn">
+                                                        <a class="rs-square-btn has-icon has-light-bg" href="asset-life-cycle-management.php">
+                                                            <span class="icon-box">
+                                                                <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="12" height="10" viewBox="0 0 12 10" fill="none">
+                                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z" fill="#616161"></path>
+                                                                </svg>
+                                                                <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="12" height="10" viewBox="0 0 12 10" fill="none">
+                                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z" fill="#616161"></path>
+                                                                </svg>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
                                 </div>
                             </div>
                         </div>
@@ -535,9 +547,9 @@
                 <div class="row  g-5 section-title-space align-items-end">
                     <div class="col-xxl-7 col-xl-8 col-lg-8">
                         <div class="rs-section-title-wrapper">
-                            <h2 class="rs-section-title rs-split-text-enable split-in-fade">EPC Services
+                            <h2 class="rs-section-title rs-split-text-enable split-in-fade">EPIC Services
                             </h2>
-                            <p>Our Engineering, Procurement, and Construction (EPC) services deliver end-to-end project execution with a focus on quality, safety, and efficiency.</p>
+                            <p>Our Engineering, Procurement, and Construction (EPIC) services deliver end-to-end project execution with a focus on quality, safety, and efficiency.</p>
                         </div>
                     </div>
                     <div class="col-xxl-5 col-xl-4 col-lg-4">
@@ -558,19 +570,21 @@
                                 data-item-md="2" data-item-sm="1" data-item-xs="1" data-item-mobile="1" data-margin="30"
                                 data-margin-xl="30">
                                 <div class="swiper-wrapper">
+
+                                    <!-- 01: Electrical & Instrumentation -->
                                     <div class="swiper-slide">
                                         <div class="rs-portfolio-item">
                                             <div class="rs-portfolio-thumb">
-                                                <img src="assets/images/new-images/epc-1.jpg" alt="image">
+                                                <img src="assets/images/epic/electrical2.jpg" alt="Electrical & Instrumentation EPC">
                                             </div>
                                             <div class="rs-portfolio-content">
                                                 <div class="rs-portfolio-tag">
-                                                    <a href="#0">EPC</a>
+                                                    <a href="electrical-instrumentation.php">EPIC</a>
                                                 </div>
                                                 <h4 class="rs-portfolio-title underline has-white"><a
-                                                        href="#0">Electrical EPC</a></h4>
+                                                        href="electrical-instrumentation.php">Electrical & Instrumentation EPC</a></h4>
                                                 <div class="rs-portfolio-btn">
-                                                    <a href="#0"
+                                                    <a href="electrical-instrumentation.php"
                                                         class="rs-btn has-theme-orange has-circle has-icon">
                                                         <span class="icon-box">
                                                             <svg class="icon-first" xmlns="http://www.w3.org/2000/svg"
@@ -591,19 +605,21 @@
                                             </div>
                                         </div>
                                     </div>
+
+                                    <!-- 02: Mechanical Systems -->
                                     <div class="swiper-slide">
                                         <div class="rs-portfolio-item">
                                             <div class="rs-portfolio-thumb">
-                                                <img src="assets/images/new-images/epc-2.jpg" alt="image">
+                                                <img src="assets/images/epic/mechanical2.jpg" alt="Mechanical Systems EPC">
                                             </div>
                                             <div class="rs-portfolio-content">
                                                 <div class="rs-portfolio-tag">
-                                                    <a href="#0">EPC</a>
+                                                    <a href="mechanical-systems.php">EPIC</a>
                                                 </div>
                                                 <h4 class="rs-portfolio-title underline has-white"><a
-                                                        href="#0">ELV Telecom System EPC</a></h4>
+                                                        href="mechanical-systems.php">Mechanical Systems EPC</a></h4>
                                                 <div class="rs-portfolio-btn">
-                                                    <a href="#0"
+                                                    <a href="mechanical-systems.php"
                                                         class="rs-btn has-theme-orange has-circle has-icon">
                                                         <span class="icon-box">
                                                             <svg class="icon-first" xmlns="http://www.w3.org/2000/svg"
@@ -624,19 +640,21 @@
                                             </div>
                                         </div>
                                     </div>
+
+                                    <!-- 03: ELV & Telecom Systems -->
                                     <div class="swiper-slide">
                                         <div class="rs-portfolio-item">
                                             <div class="rs-portfolio-thumb">
-                                                <img src="assets/images/new-images/epc-3.jpg" alt="image">
+                                                <img src="assets/images/epic/telecom2.jpg" alt="ELV Telecom System EPC">
                                             </div>
                                             <div class="rs-portfolio-content">
                                                 <div class="rs-portfolio-tag">
-                                                    <a href="#0">EPC</a>
+                                                    <a href="elv-telecom-systems.php">EPIC</a>
                                                 </div>
                                                 <h4 class="rs-portfolio-title underline has-white"><a
-                                                        href="#0">PLC / SDADA / Automation EPC</a></h4>
+                                                        href="elv-telecom-systems.php">ELV Telecom System EPC</a></h4>
                                                 <div class="rs-portfolio-btn">
-                                                    <a href="#0"
+                                                    <a href="elv-telecom-systems.php"
                                                         class="rs-btn has-theme-orange has-circle has-icon">
                                                         <span class="icon-box">
                                                             <svg class="icon-first" xmlns="http://www.w3.org/2000/svg"
@@ -657,19 +675,21 @@
                                             </div>
                                         </div>
                                     </div>
+
+                                    <!-- 04: PLC/ SCADA/Automation -->
                                     <div class="swiper-slide">
                                         <div class="rs-portfolio-item">
                                             <div class="rs-portfolio-thumb">
-                                                <img src="assets/images/new-images/epc-4.jpg" alt="image">
+                                                <img src="assets/images/epic/PLC2.jpg" alt="PLC / SCADA / Automation EPC">
                                             </div>
                                             <div class="rs-portfolio-content">
                                                 <div class="rs-portfolio-tag">
-                                                    <a href="#0">EPC</a>
+                                                    <a href="plc-scada-plc-scada-automation.php">EPIC</a>
                                                 </div>
                                                 <h4 class="rs-portfolio-title underline has-white"><a
-                                                        href="#0">Intsrumentation & Control EPC</a></h4>
+                                                        href="plc-scada-automation.php">PLC / SCADA / Automation EPC</a></h4>
                                                 <div class="rs-portfolio-btn">
-                                                    <a href="#0"
+                                                    <a href="plc-scada-automation.php"
                                                         class="rs-btn has-theme-orange has-circle has-icon">
                                                         <span class="icon-box">
                                                             <svg class="icon-first" xmlns="http://www.w3.org/2000/svg"
@@ -690,19 +710,21 @@
                                             </div>
                                         </div>
                                     </div>
+
+                                    <!-- 05: Cyber security -->
                                     <div class="swiper-slide">
                                         <div class="rs-portfolio-item">
                                             <div class="rs-portfolio-thumb">
-                                                <img src="assets/images/new-images/epc-5.jpg" alt="image">
+                                                <img src="assets/images/epic/cyber2.jpg" alt="Cyber Security">
                                             </div>
                                             <div class="rs-portfolio-content">
                                                 <div class="rs-portfolio-tag">
-                                                    <a href="#0">EPC</a>
+                                                    <a href="cyber-security.php">EPIC</a>
                                                 </div>
                                                 <h4 class="rs-portfolio-title underline has-white"><a
-                                                        href="#0">Mechanical EPC</a></h4>
+                                                        href="cyber-security.php">Cyber Security Solutions</a></h4>
                                                 <div class="rs-portfolio-btn">
-                                                    <a href="#0"
+                                                    <a href="cyber-security.php"
                                                         class="rs-btn has-theme-orange has-circle has-icon">
                                                         <span class="icon-box">
                                                             <svg class="icon-first" xmlns="http://www.w3.org/2000/svg"
@@ -723,6 +745,42 @@
                                             </div>
                                         </div>
                                     </div>
+
+                                    <!-- 06: Operation and Maintenance Services -->
+                                    <div class="swiper-slide">
+                                        <div class="rs-portfolio-item">
+                                            <div class="rs-portfolio-thumb">
+                                                <img src="assets/images/epic/operation2.jpg" alt="Operation and Maintenance Services">
+                                            </div>
+                                            <div class="rs-portfolio-content">
+                                                <div class="rs-portfolio-tag">
+                                                    <a href="operation-maintenance-services.php">EPIC</a>
+                                                </div>
+                                                <h4 class="rs-portfolio-title underline has-white"><a
+                                                        href="operation-maintenance-services.php">Operation & Maintenance Services</a></h4>
+                                                <div class="rs-portfolio-btn">
+                                                    <a href="operation-maintenance-services.php"
+                                                        class="rs-btn has-theme-orange has-circle has-icon">
+                                                        <span class="icon-box">
+                                                            <svg class="icon-first" xmlns="http://www.w3.org/2000/svg"
+                                                                viewBox="0 0 32 32">
+                                                                <path
+                                                                    d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                                                </path>
+                                                            </svg>
+                                                            <svg class="icon-second" xmlns="http://www.w3.org/2000/svg"
+                                                                viewBox="0 0 32 32">
+                                                                <path
+                                                                    d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                                                </path>
+                                                            </svg>
+                                                        </span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
                                 </div>
                             </div>
                         </div>
@@ -759,17 +817,17 @@
                                 data-background="assets/images/new-images/electrical.png">
                             </div>
                             <div class="rs-portfolio-content">
-                                <h5 class="rs-portfolio-title underline has-black"><a href="portfolio-details.html">Electrical & Instrumentation</a></h5>
+                                <h5 class="rs-portfolio-title underline has-black"><a href="trading-electrical-instrumentation.php">Electrical & Instrumentation</a></h5>
                                 <div class="rs-portfolio-tag">
-                                    <a href="portfolio-details.html">Midstream</a>
+                                    <a href="trading-electrical-instrumentation.php">Midstream</a>
                                 </div>
                                 <div class="rs-services-btn-wrapper">
                                     <div class="rs-portfolio-text-btn underline has-black">
-                                        <a class="rs-text-btn" href="portfolio-details.html">View
+                                        <a class="rs-text-btn" href="trading-electrical-instrumentation.php">View
                                             Details</a>
                                     </div>
                                     <a class="rs-square-btn has-icon has-light-bg has-black"
-                                        href="portfolio-details.html">
+                                        href="trading-electrical-instrumentation.php">
                                         <span class="icon-box">
                                             <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="12"
                                                 height="10" viewBox="0 0 12 10" fill="none">
@@ -796,16 +854,16 @@
                             </div>
                             <div class="rs-portfolio-content">
                                 <h5 class="rs-portfolio-title underline has-black"><a
-                                        href="portfolio-details.html">ELV Systems</a></h5>
+                                        href="elv-systems.php">ELV Systems</a></h5>
                                 <div class="rs-portfolio-tag">
-                                    <a href="portfolio-details.html">Innovative</a>
+                                    <a href="elv-systems.php">Innovative</a>
                                 </div>
                                 <div class="rs-services-btn-wrapper">
                                     <div class="rs-portfolio-text-btn underline has-black">
-                                        <a class="rs-text-btn" href="portfolio-details.html">View Details</a>
+                                        <a class="rs-text-btn" href="elv-systems.php">View Details</a>
                                     </div>
                                     <a class="rs-square-btn has-icon has-light-bg has-black"
-                                        href="portfolio-details.html">
+                                        href="elv-systems.php">
                                         <span class="icon-box">
                                             <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="12"
                                                 height="10" viewBox="0 0 12 10" fill="none">
