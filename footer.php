@@ -1,6 +1,6 @@
    <!-- footer area start -->
    <footer>
-       <div class="rs-footer-area rs-footer-two has-theme-orange"> 
+       <div class="rs-footer-area rs-footer-two has-theme-orange">
            <div class="rs-footer-top">
                <div class="container">
                    <div class="row g-5">
@@ -21,12 +21,12 @@
                        </div>
                        <div class="col-xxl-2 col-xl-2 col-lg-2 col-md-4 col-sm-6">
                            <div class="rs-footer-widget footer-2-col-2">
-                               <h5 class="rs-footer-widget-title">Useful Links</h5>
+                               <h5 class="rs-footer-widget-title">Quick Links</h5>
                                <div class="rs-footer-widget-content">
                                    <div class="rs-footer-widget-links">
                                        <ul>
                                            <li><a href="index.php">Home</a> </li>
-                                           <li><a href="about.php">About Us</a> </li>  
+                                           <li><a href="about.php">About Us</a> </li>
                                            <li><a href="contact.php">Contact</a></li>
                                        </ul>
                                    </div>
@@ -49,14 +49,14 @@
                        </div>
                        <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-4 col-sm-6">
                            <div class="rs-footer-widget footer-2-col-4">
-                               <h5 class="rs-footer-widget-title">Phone Number</h5>
+                               <h5 class="rs-footer-widget-title">Contact Info</h5>
                                <div class="rs-footer-widget-content">
                                    <div class="rs-footer-widget-contact-info">
                                        <div class="rs-footer-widget-number">
                                            <span>
                                                <i class="fa-solid fa-phone-volume"></i>
                                                <div>
-                                                   <a href="tel:+971551579261">+971 551 579 261</a>
+                                                   <a href="tel:+971552239870">+971 55 223 9870</a>
                                                </div>
                                            </span>
 
@@ -70,9 +70,11 @@
                                            <span>
                                                <i class="fa-solid fa-location-dot"></i>
                                                <div>
-                                                   <a href="#0">130/59A, Malligai Street, Natraj Nagar, <br> Kochadai, Madurai - 625016</a>
+                                                   <a href="#0">Building A1, Dubai Digital Park,
+                                                       Dubai Silicon Oasis, Dubai,
+                                                       United Arab Emirates</a>
                                                </div>
-                                           </span> 
+                                           </span>
                                        </div>
                                    </div>
                                </div>

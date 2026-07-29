@@ -53,29 +53,11 @@
                                 </div>
                                 <div class="rs-contact-content">
                                     <h5 class="rs-contact-title">Our Location </h5>
-                                    <a href="#">5214F Diamond Heights Blvd, San Franceisco, USA</a>
+                                    <a href="#">uilding A1, Dubai Digital Park,
+                                        Dubai Silicon Oasis, Dubai,
+                                        United Arab Emirates</a>
                                 </div>
-                            </div>
-
-
-                            <div class="rs-contact-item">
-                                <div class="rs-contact-icon">
-                                    <svg xmlns="http://www.w3.org/2000/svg" id="Outline" viewBox="0 0 24 24" width="512"
-                                        height="512">
-                                        <path
-                                            d="M12,0A12,12,0,1,0,24,12,12.013,12.013,0,0,0,12,0Zm0,22A10,10,0,1,1,22,12,10.011,10.011,0,0,1,12,22Z">
-                                        </path>
-                                        <path
-                                            d="M12,6a1,1,0,0,0-1,1v4.325L7.629,13.437a1,1,0,0,0,1.062,1.7l3.84-2.4A1,1,0,0,0,13,11.879V7A1,1,0,0,0,12,6Z">
-                                        </path>
-                                    </svg>
-                                </div>
-                                <div class="rs-contact-content">
-                                    <h5 class="rs-contact-title">Opening Hour </h5>
-                                    <p> Mon - Sat 10.00 - 18.00 <br>
-                                        Friday - Closed </p>
-                                </div>
-                            </div>
+                            </div> 
 
 
                             <div class="rs-contact-item">
@@ -112,8 +94,7 @@
                                 </div>
                                 <div class="rs-contact-content">
                                     <h5 class="rs-contact-title">Call Us </h5>
-                                    <a href="tel:971551579261">+971 551 579 261</a>
-                                    <a href="tel:971551579261">+97 155 596 1659</a>
+                                    <a href="tel:+971552239870">+971 55 223 9870</a> 
                                 </div>
                             </div>
                         </div>
