@@ -67,7 +67,7 @@
                                            <span>
                                                <i class="fa-solid fa-envelope"></i>
                                                <div>
-                                                   <a href="mailto:engg2solution@gmail.com">engg2solution@gmail.com</a>
+                                                   <a href="mailto:info@gradsystech.com">info@gradsystech.com</a>
                                                </div>
                                            </span>
 

@@ -17,7 +17,7 @@
             <div class="rs-breadcrumb-bg" data-background="assets/images/new-images/about-banner.jpg"></div>
             <div class="container">
                 <div class="row">
-                    <div class="col-xxl-6 col-xl-8 col-lg-8">
+                    <div class="col-xxl-12">
                         <div class="rs-breadcrumb-content-wrapper">
                             <div class="rs-breadcrumb-title-wrapper">
                                 <h1 class="rs-breadcrumb-title">Contact</h1>
@@ -53,11 +53,26 @@
                                 </div>
                                 <div class="rs-contact-content">
                                     <h5 class="rs-contact-title">Our Location </h5>
-                                    <a href="#">uilding A1, Dubai Digital Park,
+                                    <a href="#">Building A1, Dubai Digital Park,
                                         Dubai Silicon Oasis, Dubai,
                                         United Arab Emirates</a>
                                 </div>
-                            </div> 
+                            </div>
+
+                            <div class="rs-contact-item">
+                                <div class="rs-contact-icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" id="Outline" viewBox="0 0 24 24" width="512" height="512">
+                                        <path d="M12,0A12,12,0,1,0,24,12,12.013,12.013,0,0,0,12,0Zm0,22A10,10,0,1,1,22,12,10.011,10.011,0,0,1,12,22Z">
+                                        </path>
+                                        <path d="M12,6a1,1,0,0,0-1,1v4.325L7.629,13.437a1,1,0,0,0,1.062,1.7l3.84-2.4A1,1,0,0,0,13,11.879V7A1,1,0,0,0,12,6Z">
+                                        </path>
+                                    </svg>
+                                </div>
+                                <div class="rs-contact-content">
+                                    <h5 class="rs-contact-title">Opening Hour </h5>
+                                    <p> Monday - Saturday <br> 8AM - 6PM </p>
+                                </div>
+                            </div>
 
 
                             <div class="rs-contact-item">
@@ -71,8 +86,8 @@
                                 </div>
                                 <div class="rs-contact-content">
                                     <h5 class="rs-contact-title">Chat to Support</h5>
-                                    <a href="mailto:support.industrie@gmail.com">support.industrie@gmail.com</a>
-                                    <a href="mailto:demo.industrie@gmail.com">demo.industrie@gmail.com</a>
+                                    <a href="mailto:info@gradsystech.com">info@gradsystech.com</a>
+                                    <a href="mailto:sales@gradsystech.com">sales@gradsystech.com</a>
                                 </div>
                             </div>
 
@@ -94,7 +109,8 @@
                                 </div>
                                 <div class="rs-contact-content">
                                     <h5 class="rs-contact-title">Call Us </h5>
-                                    <a href="tel:+971552239870">+971 55 223 9870</a> 
+                                    <a href="tel:+971552239870">+971 55 223 9870</a>
+                                    <!-- <a href="tel:+97433629659">+974 3362 9659</a>  -->
                                 </div>
                             </div>
                         </div>
@@ -112,8 +128,9 @@
                     <div class="col-xl-12">
                         <div class="rs-contact-form">
                             <h3 class="rs-contact-form-title">Get in Touch</h3>
-                            <p class="descrip">The point of using Lorem Ipsum is that it has more-or-less packages
-                                normal make a type specimen book it has survived</p>
+                            <p class="descrip">
+                                Have any questions or need assistance? Feel free to contact us. Our team will get back to you as soon as possible.
+                            </p>
                             <form id="contact-form" action="https://industrie.rstheme.com/html/assets/mailer.php" method="POST">
                                 <div class="row g-5">
                                     <div class="col-md-4">

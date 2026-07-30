@@ -17,7 +17,7 @@
             <div class="rs-breadcrumb-bg" data-background="assets/images/new-images/about-banner.jpg"></div>
             <div class="container">
                 <div class="row">
-                    <div class="col-xxl-6 col-xl-8 col-lg-8">
+                    <div class="col-xxl-12">
                         <div class="rs-breadcrumb-content-wrapper">
                             <div class="rs-breadcrumb-title-wrapper">
                                 <h1 class="rs-breadcrumb-title">About Us</h1>
@@ -211,7 +211,7 @@
                                             <div id="collapseOne" class="accordion-collapse collapse show"
                                                 data-bs-parent="#accordionExampleOne">
                                                 <div class="accordion-body">
-                                                    GRADSYS delivers integrated engineering, automation, cybersecurity, and operations services, including complete EPIC solutions and Asset Lifecycle Management.[cite: 2]
+                                                    GRADSYS delivers integrated engineering, automation, cybersecurity, and operations services, including complete EPIC solutions and Asset Lifecycle Management.
                                                 </div>
                                             </div>
                                         </div>
@@ -229,7 +229,7 @@
                                             <div id="collapseTwo" class="accordion-collapse collapse"
                                                 data-bs-parent="#accordionExampleOne">
                                                 <div class="accordion-body">
-                                                    We primarily serve the Oil & Gas, Petrochemical, Energy, Water, Manufacturing, Mining, and Utilities industries[cite: 2], alongside large-scale infrastructure projects.
+                                                    We primarily serve the Oil & Gas, Petrochemical, Energy, Water, Manufacturing, Mining, and Utilities industries, alongside large-scale infrastructure projects.
                                                 </div>
                                             </div>
                                         </div>

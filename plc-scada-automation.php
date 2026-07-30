@@ -17,7 +17,7 @@
             <div class="rs-breadcrumb-bg" data-background="assets/images/new-images/about-banner.jpg"></div>
             <div class="container">
                 <div class="row">
-                    <div class="col-xxl-6 col-xl-8 col-lg-8">
+                    <div class="col-xxl-12 col-xl-12 col-lg-12">
                         <div class="rs-breadcrumb-content-wrapper">
                             <div class="rs-breadcrumb-title-wrapper">
                                 <h1 class="rs-breadcrumb-title">PLC / SCADA / Automation</h1>
@@ -91,10 +91,10 @@
                     </div>
                 </div>
                 <div class="row g-5 process-counts">
-                    
+
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="rs-feature-item wow fadeInUp" data-wow-delay=".1s" data-wow-duration="1s"
-                         style="background-color: white;"> 
+                            style="background-color: white;">
                             <h5 class="rs-feature-title mt-0">
                                 PLC Programming
                             </h5>
@@ -102,11 +102,11 @@
                                 <p>Custom logic development for robust, high-speed automated machine and process control.</p>
                             </div>
                         </div>
-                    </div> 
+                    </div>
 
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="rs-feature-item wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1s"
-                         style="background-color: white;"> 
+                            style="background-color: white;">
                             <h5 class="rs-feature-title mt-0">
                                 SCADA Development
                             </h5>
@@ -114,11 +114,11 @@
                                 <p>Centralized supervisory control and data acquisition for comprehensive facility monitoring.</p>
                             </div>
                         </div>
-                    </div> 
+                    </div>
 
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="rs-feature-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s"
-                         style="background-color: white;"> 
+                            style="background-color: white;">
                             <h5 class="rs-feature-title mt-0">
                                 Distributed Control Systems (DCS)
                             </h5>
@@ -126,11 +126,11 @@
                                 <p>Advanced control architectures for complex, continuous industrial process plants.</p>
                             </div>
                         </div>
-                    </div> 
+                    </div>
 
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="rs-feature-item wow fadeInUp" data-wow-delay=".4s" data-wow-duration="1s"
-                         style="background-color: white;"> 
+                            style="background-color: white;">
                             <h5 class="rs-feature-title mt-0">
                                 Human Machine Interface (HMI)
                             </h5>
@@ -138,11 +138,11 @@
                                 <p>Intuitive graphical interfaces for seamless operator interaction and localized equipment control.</p>
                             </div>
                         </div>
-                    </div> 
+                    </div>
 
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="rs-feature-item wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s"
-                         style="background-color: white;"> 
+                            style="background-color: white;">
                             <h5 class="rs-feature-title mt-0">
                                 Industrial IoT Integration
                             </h5>
@@ -150,11 +150,11 @@
                                 <p>Connecting physical plant assets to digital networks for smart, data-driven operations.</p>
                             </div>
                         </div>
-                    </div> 
+                    </div>
 
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="rs-feature-item wow fadeInUp" data-wow-delay=".6s" data-wow-duration="1s"
-                         style="background-color: white;"> 
+                            style="background-color: white;">
                             <h5 class="rs-feature-title mt-0">
                                 Remote Monitoring
                             </h5>
@@ -162,11 +162,11 @@
                                 <p>Secure, real-time access to critical plant data and analytics from off-site locations.</p>
                             </div>
                         </div>
-                    </div> 
+                    </div>
 
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="rs-feature-item wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s"
-                         style="background-color: white;"> 
+                            style="background-color: white;">
                             <h5 class="rs-feature-title mt-0">
                                 Process Automation
                             </h5>
@@ -174,11 +174,11 @@
                                 <p>End-to-end automation of industrial workflows to maximize consistency, safety, and throughput.</p>
                             </div>
                         </div>
-                    </div> 
+                    </div>
 
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="rs-feature-item wow fadeInUp" data-wow-delay=".8s" data-wow-duration="1s"
-                         style="background-color: white;"> 
+                            style="background-color: white;">
                             <h5 class="rs-feature-title mt-0">
                                 Batch Control Systems
                             </h5>
@@ -186,11 +186,11 @@
                                 <p>Precise automation of recipe-driven batch processes for strict quality and regulatory compliance.</p>
                             </div>
                         </div>
-                    </div> 
+                    </div>
 
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="rs-feature-item wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s"
-                         style="background-color: white;"> 
+                            style="background-color: white;">
                             <h5 class="rs-feature-title mt-0">
                                 Industrial Networking
                             </h5>
@@ -198,11 +198,11 @@
                                 <p>Resilient and secure communication architectures designed specifically for plant floor data exchange.</p>
                             </div>
                         </div>
-                    </div> 
+                    </div>
 
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="rs-feature-item wow fadeInUp" data-wow-delay="1s" data-wow-duration="1s"
-                         style="background-color: white;"> 
+                            style="background-color: white;">
                             <h5 class="rs-feature-title mt-0">
                                 Control Panel Design
                             </h5>
@@ -210,11 +210,11 @@
                                 <p>Custom engineering, layout, and fabrication of intelligent electrical control enclosures.</p>
                             </div>
                         </div>
-                    </div> 
+                    </div>
 
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="rs-feature-item wow fadeInUp" data-wow-delay="1.1s" data-wow-duration="1s"
-                         style="background-color: white;"> 
+                            style="background-color: white;">
                             <h5 class="rs-feature-title mt-0">
                                 Factory Acceptance Testing (FAT)
                             </h5>
@@ -222,11 +222,11 @@
                                 <p>Rigorous off-site system validation to ensure all design specifications are fully met.</p>
                             </div>
                         </div>
-                    </div> 
+                    </div>
 
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="rs-feature-item wow fadeInUp" data-wow-delay="1.2s" data-wow-duration="1s"
-                         style="background-color: white;"> 
+                            style="background-color: white;">
                             <h5 class="rs-feature-title mt-0">
                                 Site Acceptance Testing (SAT)
                             </h5>
@@ -234,7 +234,7 @@
                                 <p>Comprehensive on-site testing and verification prior to final system handover and startup.</p>
                             </div>
                         </div>
-                    </div> 
+                    </div>
 
                 </div>
             </div>
@@ -262,86 +262,14 @@
                     </div>
                 </div>
                 <div class="row g-5 process-counts">
-                    
-                    <div class="col-xl-3 col-lg-4 col-md-6">
-                        <div class="rs-feature-item wow fadeInUp" data-wow-delay=".1s" data-wow-duration="1s"
-                         style="background-color: white; border: 1px solid #eee;"> 
-                            <h5 class="rs-feature-title mt-0">Siemens</h5>
-                            <div class="rs-feature-descrip">
-                                <p>Comprehensive integration and programming for Siemens automation hardware and software.</p>
-                            </div>
-                        </div>
-                    </div> 
 
-                    <div class="col-xl-3 col-lg-4 col-md-6">
-                        <div class="rs-feature-item wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1s"
-                         style="background-color: white; border: 1px solid #eee;"> 
-                            <h5 class="rs-feature-title mt-0">Schneider Electric</h5>
-                            <div class="rs-feature-descrip">
-                                <p>Advanced control solutions utilizing Schneider Electric's robust industrial ecosystem.</p>
-                            </div>
+                    <div class="rs-cta-wrapper" style="background: #002d56;padding: 30px;border-radius: 2px;">
+                        <div class="rs-cta-item text-center">
+                            <div class="rs-cta-text m-0 text-white" style="color: #fff;font-size: 20px;">
+                                All Leading PLC / SCADA / Automation Industrial Systems are supported.
+                                </div>
                         </div>
-                    </div> 
-
-                    <div class="col-xl-3 col-lg-4 col-md-6">
-                        <div class="rs-feature-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s"
-                         style="background-color: white; border: 1px solid #eee;"> 
-                            <h5 class="rs-feature-title mt-0">Rockwell Automation</h5>
-                            <div class="rs-feature-descrip">
-                                <p>Expert deployment of Rockwell Automation and Allen-Bradley control systems.</p>
-                            </div>
-                        </div>
-                    </div> 
-
-                    <div class="col-xl-3 col-lg-4 col-md-6">
-                        <div class="rs-feature-item wow fadeInUp" data-wow-delay=".4s" data-wow-duration="1s"
-                         style="background-color: white; border: 1px solid #eee;"> 
-                            <h5 class="rs-feature-title mt-0">ABB</h5>
-                            <div class="rs-feature-descrip">
-                                <p>Tailored process automation solutions leveraging ABB's extensive technology portfolio.</p>
-                            </div>
-                        </div>
-                    </div> 
-
-                    <div class="col-xl-3 col-lg-4 col-md-6">
-                        <div class="rs-feature-item wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s"
-                         style="background-color: white; border: 1px solid #eee;"> 
-                            <h5 class="rs-feature-title mt-0">Honeywell</h5>
-                            <div class="rs-feature-descrip">
-                                <p>Implementation of Honeywell's sophisticated distributed control and safety systems.</p>
-                            </div>
-                        </div>
-                    </div> 
-
-                    <div class="col-xl-3 col-lg-4 col-md-6">
-                        <div class="rs-feature-item wow fadeInUp" data-wow-delay=".6s" data-wow-duration="1s"
-                         style="background-color: white; border: 1px solid #eee;"> 
-                            <h5 class="rs-feature-title mt-0">Emerson</h5>
-                            <div class="rs-feature-descrip">
-                                <p>Precision automation and control utilizing Emerson's industry-leading platforms.</p>
-                            </div>
-                        </div>
-                    </div> 
-
-                    <div class="col-xl-3 col-lg-4 col-md-6">
-                        <div class="rs-feature-item wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s"
-                         style="background-color: white; border: 1px solid #eee;"> 
-                            <h5 class="rs-feature-title mt-0">GE</h5>
-                            <div class="rs-feature-descrip">
-                                <p>Robust industrial automation integration using GE's intelligent control technologies.</p>
-                            </div>
-                        </div>
-                    </div> 
-
-                    <div class="col-xl-3 col-lg-4 col-md-6">
-                        <div class="rs-feature-item wow fadeInUp" data-wow-delay=".8s" data-wow-duration="1s"
-                         style="background-color: white; border: 1px solid #eee;"> 
-                            <h5 class="rs-feature-title mt-0">Yokogawa</h5>
-                            <div class="rs-feature-descrip">
-                                <p>High-reliability process control system engineering with Yokogawa solutions.</p>
-                            </div>
-                        </div>
-                    </div> 
+                    </div>
 
                 </div>
             </div>
@@ -362,36 +290,36 @@
                                     Our Value Proposition</h2>
                             </div>
                             <div class="rs-why-choose-item-wrapper">
-                                
-                                <div class="rs-why-choose-item"> 
+
+                                <div class="rs-why-choose-item">
                                     <div class="rs-why-choose-content">
                                         <h5 class="rs-why-choose-title">Improved productivity</h5>
                                         <p>Automate repetitive tasks and optimize process flows to significantly boost overall facility output.</p>
                                     </div>
                                 </div>
 
-                                <div class="rs-why-choose-item"> 
+                                <div class="rs-why-choose-item">
                                     <div class="rs-why-choose-content">
                                         <h5 class="rs-why-choose-title">Real-time monitoring</h5>
                                         <p>Gain immediate, actionable insights into plant operations for proactive management and adjustments.</p>
                                     </div>
                                 </div>
 
-                                <div class="rs-why-choose-item"> 
+                                <div class="rs-why-choose-item">
                                     <div class="rs-why-choose-content">
                                         <h5 class="rs-why-choose-title">Reduced downtime</h5>
                                         <p>Identify and resolve system anomalies swiftly through advanced diagnostics and automated alerts.</p>
                                     </div>
                                 </div>
 
-                                <div class="rs-why-choose-item"> 
+                                <div class="rs-why-choose-item">
                                     <div class="rs-why-choose-content">
                                         <h5 class="rs-why-choose-title">Enhanced operational control</h5>
                                         <p>Achieve precise, consistent regulation of critical industrial processes and environmental variables.</p>
                                     </div>
                                 </div>
 
-                                <div class="rs-why-choose-item"> 
+                                <div class="rs-why-choose-item">
                                     <div class="rs-why-choose-content">
                                         <h5 class="rs-why-choose-title">Better decision-making</h5>
                                         <p>Leverage accurate, comprehensive operational data to drive strategic business improvements and growth.</p>
@@ -411,7 +339,7 @@
                 </div>
             </div>
         </section>
-        <!-- why choose area end --> 
+        <!-- why choose area end -->
 
     </main>
 

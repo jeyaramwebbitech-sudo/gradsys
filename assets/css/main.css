@@ -4281,6 +4281,7 @@ input[type=checkbox]~label:hover {
   -ms-transform: translateY(0px);
   -o-transform: translateY(0px);
   transform: translateY(0px);
+  display: none;
 }
 
 .backtotop-wrap::after {
@@ -19287,6 +19288,7 @@ only screen and (max-width: 575px) {
   border-radius: 2px;
   position: relative;
   align-items: center;
+  justify-content: center;
 }
 
 @media only screen and (max-width: 1199px) {
@@ -22565,14 +22567,14 @@ only screen and (max-width: 575px) {
   transition: all 0.5s ease;
   min-height: 180px;
   object-fit: cover;
-}  
+}
 
 .eng-home .rs-services-thumb img {
   width: 100%;
   transition: all 0.5s ease;
   max-height: 180px;
   object-fit: cover;
-}  
+}
 
 .rs-services-two .rs-services-btn-wrapper {
   display: flex;
@@ -27656,7 +27658,7 @@ only screen and (max-width: 575px) {
 
 .rs-contact-nine .rs-contact-wrapper {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 30px;
 }
 
@@ -33588,4 +33590,50 @@ a.ui-button:active {
 
 .industre .rs-portfolio-thumb img {
   height: 170px;
+}
+
+
+
+.floating_btn {
+	position: fixed;
+	bottom: 15px;
+	right: 10px;
+	width: 100px;
+	height: 100px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	z-index: 10;
+}
+
+.contact_icon {
+	background-color: #42db87;
+	color: #fff;
+	width: 60px;
+	height: 60px;
+	font-size: 30px;
+	border-radius: 50px;
+	text-align: center;
+	box-shadow: 2px 2px 3px #999;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	transform: translatey(0px);
+	animation: pulse 1.5s infinite;
+	box-shadow: 0 0 0 0 #42db87;
+	-webkit-animation: pulsing 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+	-moz-animation: pulsing 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+	-ms-animation: pulsing 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+	animation: pulsing 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+	font-weight: normal;
+	font-family: sans-serif;
+	text-decoration: none !important;
+	transition: all 300ms ease-in-out;
+}
+
+@keyframes pulsing {
+	100% {
+		box-shadow: 0 0 0 30px rgba(232, 76, 61, 0);
+	}
 }

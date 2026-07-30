@@ -17,7 +17,7 @@
             <div class="rs-breadcrumb-bg" data-background="assets/images/new-images/about-banner.jpg"></div>
             <div class="container">
                 <div class="row">
-                    <div class="col-xxl-6 col-xl-8 col-lg-8">
+                    <div class="col-xxl-12">
                         <div class="rs-breadcrumb-content-wrapper">
                             <div class="rs-breadcrumb-title-wrapper">
                                 <h1 class="rs-breadcrumb-title">EPIC & Industrial Services</h1>

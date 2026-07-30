@@ -2,6 +2,15 @@
       <div id="cursor-ball"></div>
   </div>
 
+  
+<div class="floating_btn">
+    <a target="_blank" href="https://wa.me/+971552239870">
+        <div class="contact_icon">
+            <i class="fa-brands fa-whatsapp"></i>
+        </div>
+    </a>
+</div> 
+
   <!-- preloader end -->
 
   <!-- Header area start -->
@@ -63,7 +72,7 @@
                                           <a href="elv-telecom-systems.php">ELV & Telecom Systems</a>
                                       </li>
                                       <li>
-                                          <a href="plc-scada-automation.php">PLC/ SCADA/Automation</a>
+                                          <a href="plc-scada-automation.php">PLC / SCADA / Automation</a>
                                       </li>
                                       <li>
                                           <a href="cyber-security.php">Cyber security</a>
@@ -180,7 +189,7 @@
                                           <a href="elv-telecom-systems.php">ELV & Telecom Systems</a>
                                       </li>
                                       <li>
-                                          <a href="plc-scada-automation.php">PLC/ SCADA/Automation</a>
+                                          <a href="plc-scada-automation.php">PLC / SCADA / Automation</a>
                                       </li>
                                       <li>
                                           <a href="cyber-security.php">Cyber security</a>
@@ -209,7 +218,7 @@
                   </div>
                   <div class="rs-header-right">
                       <div class="rs-about-btn">
-                          <a class="rs-btn has-theme-orange has-icon has-bg" href="contact.php">Contact Us
+                          <a class="rs-btn has-theme-orange has-icon has-bg" href="contact.php">Reach Us
                               <span class="icon-box">
                                   <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
                                       <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">

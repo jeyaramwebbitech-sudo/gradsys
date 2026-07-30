@@ -135,18 +135,9 @@
                             </div>
                             <div class="rs-cta-shape-two">
                                 <img src="assets/images/shape/quote-arrow.png" alt="image">
-                            </div>
-                            <div class="rs-cta-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
-                                <h5 class="rs-cta-title">Gradsys Engineering</h5>
-                                <div class="rs-cta-call">
-                                    <a href="tel:+919488631351">+91 94886 31351</a>
-                                </div>
-                            </div>
-                            <div class="rs-cta-item wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
-                                <div class="rs-cta-text">“Industrie has consistently embraced innovation to provide a
-                                    superior
-                                    level of excellence”</div>
-                                <!-- <div class="rs-cta-designation">Donal Lue / CEO &amp; Founder</div> -->
+                            </div> 
+                            <div class="rs-cta-item wow fadeInUp text-center" data-wow-delay=".5s" data-wow-duration="1s">
+                                <div class="rs-cta-text m-0">"Empowering Industries with Smart, Sustainable Power Solutions."</div> 
                             </div>
                         </div>
                     </div>
@@ -487,59 +478,7 @@
             </div>
         </section>
         <!-- services area end -->
-
-        <!-- counter area start -->
-        <div class="rs-counter-area rs-counter-one">
-            <div class="container">
-                <div class="row g-5">
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                        <div class="rs-counter-item">
-                            <div class="rs-counter-inner">
-                                <div class="rs-counter-number-wrapper">
-                                    <span class="rs-counter-number odometer" data-count="15">00</span>
-                                    <span class="prefix">+</span>
-                                </div>
-                                <span class="rs-counter-title">Years of Industry Experience</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                        <div class="rs-counter-item">
-                            <div class="rs-counter-inner">
-                                <div class="rs-counter-number-wrapper">
-                                    <span class="rs-counter-number odometer" data-count="250">00</span>
-                                    <span class="prefix">+</span>
-                                </div>
-                                <span class="rs-counter-title">Successfully Completed Projects</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                        <div class="rs-counter-item">
-                            <div class="rs-counter-inner">
-                                <div class="rs-counter-number-wrapper">
-                                    <span class="rs-counter-number odometer" data-count="80">00</span>
-                                    <span class="prefix">+</span>
-                                </div>
-                                <span class="rs-counter-title">Skilled Engineering Professionals</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                        <div class="rs-counter-item">
-                            <div class="rs-counter-inner">
-                                <div class="rs-counter-number-wrapper">
-                                    <span class="rs-counter-number odometer" data-count="120">00</span>
-                                    <span class="prefix">+</span>
-                                </div>
-                                <span class="rs-counter-title">Happy Clients Worldwide</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- counter area end -->
+ 
 
         <!-- portfolio area start -->
         <section class="rs-portfolio-area rs-portfolio-one rs-swiper primary-bg">
