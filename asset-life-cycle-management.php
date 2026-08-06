@@ -43,7 +43,7 @@
                     <div class="col-xl-12">
                         <div class="rs-section-title-wrapper">
                             <h2 class="rs-section-title rs-split-text-enable split-in-fade mb-2">Maximizing Asset Performance Throughout Its Lifecycle</h2>
-                            <p class="descrip-2 mb-5">GRADSYS helps organizations optimize the performance, reliability, and longevity of critical assets through intelligent lifecycle management strategies.</p>
+                            <p class="descrip-2 mb-5">Vortex helps organizations optimize the performance, reliability, and longevity of critical assets through intelligent lifecycle management strategies.</p>
                         </div>
                     </div>
                 </div>

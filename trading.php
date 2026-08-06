@@ -53,7 +53,7 @@
                                         Trading Services
                                     </span>
                                     <h2 class="rs-section-title rs-split-text-enable split-in-fade">Your Trusted Partner for Industrial Products and Engineering Solutions</h2>
-                                    <p class="descrip">GRADSYS is a trusted supplier of high-quality industrial products, engineering equipment, and technical solutions serving the energy, utilities, infrastructure, manufacturing, and commercial sectors. Through our global network of leading manufacturers and technology partners, we provide reliable products that meet international quality standards and project specifications.</p>
+                                    <p class="descrip">Vortex is a trusted supplier of high-quality industrial products, engineering equipment, and technical solutions serving the energy, utilities, infrastructure, manufacturing, and commercial sectors. Through our global network of leading manufacturers and technology partners, we provide reliable products that meet international quality standards and project specifications.</p>
                                     <p class="descrip">Our trading division combines technical expertise with efficient procurement and logistics, enabling clients to source the right products at the right time while maintaining cost efficiency and operational reliability.</p>
                                 </div>
                             </div>
@@ -237,12 +237,12 @@
                         <div class="rs-why-choose-content-wrapper">
                             <div class="rs-section-title-wrapper mb-4">
                                 <h2 class="rs-section-title has-theme-blue rs-split-text-enable split-in-fade">
-                                    Why GRADSYS?</h2>
+                                    Why Vortex?</h2>
                             </div>
                             <div class="rs-why-choose-item-wrapper">
                                 <div class="rs-why-choose-item">
                                     <div class="rs-why-choose-content">
-                                        <p>GRADSYS is your trusted partner for end-to-end procurement services, leveraging a vast global sourcing network to deliver quality-certified products with reliable delivery and competitive pricing. Backed by deep technical product expertise, we provide complete supply chain management and OEM-supported solutions tailored to meet the complex demands of your industrial projects.</p>
+                                        <p>Vortex is your trusted partner for end-to-end procurement services, leveraging a vast global sourcing network to deliver quality-certified products with reliable delivery and competitive pricing. Backed by deep technical product expertise, we provide complete supply chain management and OEM-supported solutions tailored to meet the complex demands of your industrial projects.</p>
                                     </div>
                                 </div>
                             </div>

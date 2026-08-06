@@ -56,23 +56,22 @@
                                            <span>
                                                <i class="fa-solid fa-phone-volume"></i>
                                                <div>
-                                                   <a href="tel:+971552239870">+971 55 223 9870</a>
+                                                   <a href="tel:+21628496907">+216 28 496 907</a>
                                                </div>
                                            </span>
 
                                            <span>
                                                <i class="fa-solid fa-envelope"></i>
                                                <div>
-                                                   <a href="mailto:info@gradsystech.com">info@gradsystech.com</a>
+                                                   <a href="mailto:info@Vortextech.com">info@vortextech.com</a>
                                                </div>
                                            </span>
 
                                            <span>
                                                <i class="fa-solid fa-location-dot"></i>
                                                <div>
-                                                   <a href="#0">Building A1, Dubai Digital Park,
-                                                       Dubai Silicon Oasis, Dubai,
-                                                       United Arab Emirates</a>
+                                                   <a href="#0">Public post Ennasr BP 292 , CP: 2001 Ariana
+                                                       Tunis ,Tunisia</a>
                                                </div>
                                            </span>
                                        </div>
@@ -88,7 +87,7 @@
                    <div class="row justify-content-center">
                        <div class="col-xl-12">
                            <div class="rs-footer-copyright has-theme-orange text-center">
-                               <p class="underline">© <span id="year">2025</span> Gradsys Engineering.</p>
+                               <p class="underline">© <span id="year">2025</span> Vortex Engineering.</p>
                                <p class="underline"><span id="year"> Designed by <a href="https://webbitech.com/" target="_blank">Webbitech</a></p>
                            </div>
                        </div>

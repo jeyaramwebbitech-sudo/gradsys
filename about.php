@@ -57,9 +57,9 @@
                                     </span>
                                     <h2 class="rs-section-title rs-split-text-enable split-in-fade">
                                         Engineering. Technology. Excellence.</h2>
-                                    <p class="descrip">GRADSYS is a trusted engineering, trading, and technology solutions provider committed to delivering high-quality products and innovative solutions across industrial, commercial, infrastructure, and energy sectors. We combine technical expertise, global sourcing capabilities, and customer-focused service to support projects of every scale with reliable and cost-effective solutions.</p>
-                                    <p class="descrip">With a strong commitment to quality, innovation, and operational excellence, GRADSYS supplies a comprehensive portfolio of Electrical & Instrumentation, Extra Low Voltage (ELV), Industrial Automation, Mechanical, and Engineering products sourced from leading global manufacturers. Our experienced team works closely with clients to understand project requirements and deliver solutions that meet international standards while ensuring performance, reliability, and long-term value.</p>
-                                    <p class="descrip">Whether supporting new developments, expansion projects, or maintenance requirements, GRADSYS is dedicated to providing products, technical expertise, and responsive customer service that help our clients achieve successful project outcomes.</p>
+                                    <p class="descrip">Vortex is a trusted engineering, trading, and technology solutions provider committed to delivering high-quality products and innovative solutions across industrial, commercial, infrastructure, and energy sectors. We combine technical expertise, global sourcing capabilities, and customer-focused service to support projects of every scale with reliable and cost-effective solutions.</p>
+                                    <p class="descrip">With a strong commitment to quality, innovation, and operational excellence, Vortex supplies a comprehensive portfolio of Electrical & Instrumentation, Extra Low Voltage (ELV), Industrial Automation, Mechanical, and Engineering products sourced from leading global manufacturers. Our experienced team works closely with clients to understand project requirements and deliver solutions that meet international standards while ensuring performance, reliability, and long-term value.</p>
+                                    <p class="descrip">Whether supporting new developments, expansion projects, or maintenance requirements, Vortex is dedicated to providing products, technical expertise, and responsive customer service that help our clients achieve successful project outcomes.</p>
                                 </div>
                             </div>
                         </div>
@@ -153,12 +153,12 @@
                         <div class="rs-why-choose-content-wrapper">
                             <div class="rs-section-title-wrapper mb-4">
                                 <h2 class="rs-section-title has-theme-blue rs-split-text-enable split-in-fade">
-                                    Why GRADSYS?</h2>
+                                    Why Vortex?</h2>
                             </div>
                             <div class="rs-why-choose-item-wrapper">
                                 <div class="rs-why-choose-item">
                                     <div class="rs-why-choose-content">
-                                        <p>GRADSYS delivers integrated engineering, automation, cybersecurity, and operations services that enable clients to execute projects efficiently and operate assets safely and reliably. Our multidisciplinary expertise, commitment to quality, and focus on innovation make us a trusted partner across the energy, utilities, infrastructure, and industrial sectors. </p>
+                                        <p>Vortex delivers integrated engineering, automation, cybersecurity, and operations services that enable clients to execute projects efficiently and operate assets safely and reliably. Our multidisciplinary expertise, commitment to quality, and focus on innovation make us a trusted partner across the energy, utilities, infrastructure, and industrial sectors. </p>
                                     </div>
                                 </div>
                             </div>
@@ -192,7 +192,7 @@
                                     F.A.Q
                                 </span>
                                 <h2 class="rs-section-title has-theme-blue rs-split-text-enable split-in-fade">Frequently Asked Questions</h2>
-                                <p class="descrip">Discover how GRADSYS can support your next industrial, infrastructure, or technology project.</p>
+                                <p class="descrip">Discover how Vortex can support your next industrial, infrastructure, or technology project.</p>
                             </div>
                             <div class="rs-faq-content rs-accordion-one has-theme-blue">
                                 <div class="accordion-wrapper">
@@ -204,14 +204,14 @@
                                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseOne" aria-expanded="true"
                                                     aria-controls="collapseOne">
-                                                    01. What comprehensive services does GRADSYS provide?
+                                                    01. What comprehensive services does Vortex provide?
                                                     <span class="accordion-btn"></span>
                                                 </button>
                                             </h4>
                                             <div id="collapseOne" class="accordion-collapse collapse show"
                                                 data-bs-parent="#accordionExampleOne">
                                                 <div class="accordion-body">
-                                                    GRADSYS delivers integrated engineering, automation, cybersecurity, and operations services, including complete EPIC solutions and Asset Lifecycle Management.
+                                                    Vortex delivers integrated engineering, automation, cybersecurity, and operations services, including complete EPIC solutions and Asset Lifecycle Management.
                                                 </div>
                                             </div>
                                         </div>

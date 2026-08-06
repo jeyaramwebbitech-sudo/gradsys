@@ -56,7 +56,7 @@
                                     <h2
                                         class="rs-section-title has-theme-light-blue rs-split-text-enable split-in-fade mb-30 ">
                                         Intelligent Electrical and Control Solutions</h2>
-                                    <p>GRADSYS delivers complete Electrical and Instrumentation engineering, installation, testing, and <br> commissioning services for industrial and infrastructure projects.</p>
+                                    <p>Vortex delivers complete Electrical and Instrumentation engineering, installation, testing, and <br> commissioning services for industrial and infrastructure projects.</p>
                                 </div>
 
                             </div>

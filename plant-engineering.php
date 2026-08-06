@@ -43,7 +43,7 @@
                     <div class="col-xl-12">
                         <div class="rs-section-title-wrapper">
                             <h2 class="rs-section-title rs-split-text-enable split-in-fade mb-2">Complete Engineering Solutions for Industrial Facilities</h2>
-                            <p class="descrip-2 mb-5">GRADSYS provides end-to-end plant engineering services covering greenfield developments, brownfield modifications, plant expansions, revamps, and operational improvements.</p>
+                            <p class="descrip-2 mb-5">Vortex provides end-to-end plant engineering services covering greenfield developments, brownfield modifications, plant expansions, revamps, and operational improvements.</p>
                         </div>
                     </div>
                 </div>

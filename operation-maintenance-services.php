@@ -59,7 +59,7 @@
                                     <h2
                                         class="rs-section-title has-theme-light-blue rs-split-text-enable split-in-fade mb-30 ">
                                         Maximizing Asset Reliability and Operational Excellence</h2>
-                                    <p>GRADSYS provides comprehensive Operation and Maintenance (O&M) services to ensure the safe, efficient, and reliable performance of industrial facilities throughout their operational lifecycle.</p>
+                                    <p>Vortex provides comprehensive Operation and Maintenance (O&M) services to ensure the safe, efficient, and reliable performance of industrial facilities throughout their operational lifecycle.</p>
                                 </div>
 
                             </div>

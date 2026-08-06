@@ -53,7 +53,7 @@
                                         EPIC (Engineering, Procurement, Installation & Commissioning)
                                     </span>
                                     <h2 class="rs-section-title rs-split-text-enable split-in-fade">End-to-End Project Delivery with Confidence</h2>
-                                    <p class="descrip">GRADSYS provides comprehensive Engineering, Procurement, Installation, and Commissioning (EPIC) services for industrial, energy, infrastructure, and commercial projects. We manage every phase of the project lifecycle, ensuring seamless coordination, cost control, quality assurance, and timely delivery.</p>
+                                    <p class="descrip">Vortex provides comprehensive Engineering, Procurement, Installation, and Commissioning (EPIC) services for industrial, energy, infrastructure, and commercial projects. We manage every phase of the project lifecycle, ensuring seamless coordination, cost control, quality assurance, and timely delivery.</p>
                                 </div>
                             </div>
                         </div>
@@ -351,12 +351,12 @@
                         <div class="rs-why-choose-content-wrapper">
                             <div class="rs-section-title-wrapper mb-4">
                                 <h2 class="rs-section-title has-theme-blue rs-split-text-enable split-in-fade">
-                                    Why GRADSYS?</h2>
+                                    Why Vortex?</h2>
                             </div>
                             <div class="rs-why-choose-item-wrapper">
                                 <div class="rs-why-choose-item">
                                     <div class="rs-why-choose-content">
-                                        <p>GRADSYS delivers integrated engineering, automation, cybersecurity, and operations services that enable clients to execute projects efficiently and operate assets safely and reliably. Our multidisciplinary expertise, commitment to quality, and focus on innovation make us a trusted partner across the energy, utilities, infrastructure, and industrial sectors. </p>
+                                        <p>Vortex delivers integrated engineering, automation, cybersecurity, and operations services that enable clients to execute projects efficiently and operate assets safely and reliably. Our multidisciplinary expertise, commitment to quality, and focus on innovation make us a trusted partner across the energy, utilities, infrastructure, and industrial sectors. </p>
                                     </div>
                                 </div>
                             </div>

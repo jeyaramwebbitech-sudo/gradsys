@@ -43,7 +43,7 @@
                     <div class="col-xl-12">
                         <div class="rs-section-title-wrapper">
                             <h2 class="rs-section-title rs-split-text-enable split-in-fade mb-2">Transforming Ideas into Executable Projects</h2>
-                            <p class="descrip-2 mb-5">Successful projects begin with sound engineering. GRADSYS provides Conceptual Studies and Front-End Engineering Design (FEED) services that establish the technical, commercial, and operational foundation for successful project delivery. Our multidisciplinary team evaluates engineering options, optimizes project scope, and develops execution-ready designs that minimize risk and maximize value.</p>
+                            <p class="descrip-2 mb-5">Successful projects begin with sound engineering. Vortex provides Conceptual Studies and Front-End Engineering Design (FEED) services that establish the technical, commercial, and operational foundation for successful project delivery. Our multidisciplinary team evaluates engineering options, optimizes project scope, and develops execution-ready designs that minimize risk and maximize value.</p>
                         </div>
                     </div>
                 </div>

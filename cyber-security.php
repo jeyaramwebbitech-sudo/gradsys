@@ -59,7 +59,7 @@
                                     <h2
                                         class="rs-section-title has-theme-light-blue rs-split-text-enable split-in-fade mb-30 ">
                                         Protecting Critical Industrial Infrastructure</h2>
-                                    <p>GRADSYS provides comprehensive Operational Technology (OT) and Industrial Control System (ICS) cybersecurity solutions to safeguard critical assets against evolving cyber threats.</p>
+                                    <p>Vortex provides comprehensive Operational Technology (OT) and Industrial Control System (ICS) cybersecurity solutions to safeguard critical assets against evolving cyber threats.</p>
                                 </div>
 
                             </div>

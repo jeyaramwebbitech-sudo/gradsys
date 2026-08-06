@@ -67,7 +67,7 @@
                                            <span>
                                                <i class="fa-solid fa-envelope"></i>
                                                <div>
-                                                   <a href="mailto:info@gradsystech.com">info@gradsystech.com</a>
+                                                   <a href="mailto:info@Vortextech.com">info@Vortextech.com</a>
                                                </div>
                                            </span>
 
@@ -101,7 +101,7 @@
                    <div class="row justify-content-center">
                        <div class="col-xl-12">
                            <div class="rs-footer-copyright has-theme-orange text-center">
-                               <p class="underline">© <span id="year">2025</span> Gradsys Engineering.</p>
+                               <p class="underline">© <span id="year">2025</span> Vortex Engineering.</p>
                                <p class="underline">© <span id="year"> Designed by <a href="https://webbitech.com/">Webbitech</a></p>
                            </div>
                        </div>

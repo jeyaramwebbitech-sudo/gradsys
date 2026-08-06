@@ -43,7 +43,7 @@
                     <div class="col-xl-12">
                         <div class="rs-section-title-wrapper">
                             <h2 class="rs-section-title rs-split-text-enable split-in-fade mb-2">Building Digital Excellence Through BIM</h2>
-                            <p class="descrip-2 mb-5">GRADSYS leverages Building Information Modelling (BIM) to improve collaboration, reduce project risks, and enhance construction efficiency.</p>
+                            <p class="descrip-2 mb-5">Vortex leverages Building Information Modelling (BIM) to improve collaboration, reduce project risks, and enhance construction efficiency.</p>
                         </div>
                     </div>
                 </div>

@@ -166,7 +166,7 @@
                                         About Us
                                     </span>
                                     <h2 class="rs-section-title rs-split-text-enable split-in-fade">Empowering a Smarter, More Sustainable Future</h2>
-                                    <p class="mt-4">At Gradsys, we are committed to delivering innovative engineering and technology solutions that help businesses achieve greater efficiency, sustainability, and long-term value. Our expertise spans intelligent infrastructure, renewable energy integration, automation, and smart technology systems designed to meet the evolving demands of modern industries.</p>
+                                    <p class="mt-4">At Vortex, we are committed to delivering innovative engineering and technology solutions that help businesses achieve greater efficiency, sustainability, and long-term value. Our expertise spans intelligent infrastructure, renewable energy integration, automation, and smart technology systems designed to meet the evolving demands of modern industries.</p>
                                     <p class="">With a team of experienced engineers, designers, and technology specialists, we transform ideas into practical, future-ready solutions. Every project is built on a foundation of quality, innovation, and environmental responsibility, ensuring reliable performance while reducing operational costs and supporting sustainable growth. </p>
                                 </div>
 
@@ -908,7 +908,7 @@
 
                                                 <div class="rs-testimonial-description">
                                                     <p>
-                                                        GRADSYS provided complete engineering support with exceptional professionalism.
+                                                        Vortex provided complete engineering support with exceptional professionalism.
                                                         Their team delivered quality documentation, maintained project schedules,
                                                         and ensured every milestone was completed to international standards.
                                                     </p>
@@ -954,7 +954,7 @@
 
                                                 <div class="rs-testimonial-description">
                                                     <p>
-                                                        From engineering to commissioning, GRADSYS exceeded our expectations.
+                                                        From engineering to commissioning, Vortex exceeded our expectations.
                                                         Their technical expertise, transparent communication and reliable execution
                                                         made them a trusted project partner.
                                                     </p>
@@ -1000,7 +1000,7 @@
 
                                                 <div class="rs-testimonial-description">
                                                     <p>
-                                                        The automation and electrical solutions delivered by GRADSYS significantly
+                                                        The automation and electrical solutions delivered by Vortex significantly
                                                         improved our operational efficiency. Their commitment to quality and long-term
                                                         support is truly commendable.
                                                     </p>
@@ -1046,7 +1046,7 @@
 
                                                 <div class="rs-testimonial-description">
                                                     <p>
-                                                        Working with GRADSYS was seamless from planning through final delivery.
+                                                        Working with Vortex was seamless from planning through final delivery.
                                                         Their multidisciplinary engineering capabilities and customer-first approach
                                                         consistently delivered outstanding project results.
                                                     </p>

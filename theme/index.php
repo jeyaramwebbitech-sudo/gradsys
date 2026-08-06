@@ -26,7 +26,7 @@
                                         <div class="col-xxl-8 col-xl-9 col-lg-10 col-md-10">
                                             <div class="rs-banner-wrapper">
                                                 <span class="rs-banner-stroke-text">
-                                                    gradsys
+                                                    Vortex
                                                 </span>
                                                 <div class="rs-banner-content">
                                                     <h1 class="rs-banner-title">Precision Engineering, Global Scale
@@ -73,7 +73,7 @@
                                         <div class="col-xxl-8 col-xl-9 col-lg-10 col-md-10">
                                             <div class="rs-banner-wrapper">
                                                 <span class="rs-banner-stroke-text">
-                                                    gradsys
+                                                    Vortex
                                                 </span>
                                                 <div class="rs-banner-content">
                                                     <h1 class="rs-banner-title">Intelligent Digital Solutions
@@ -121,7 +121,7 @@
                                         <div class="col-xxl-8 col-xl-9 col-lg-10 col-md-10">
                                             <div class="rs-banner-wrapper">
                                                 <span class="rs-banner-stroke-text">
-                                                    gradsys
+                                                    Vortex
                                                 </span>
                                                 <div class="rs-banner-content">
                                                     <h1 class="rs-banner-title">Turnkey EPC Solutions
@@ -228,7 +228,7 @@
                                         About Us
                                     </span>
                                     <h2 class="rs-section-title rs-split-text-enable split-in-fade">Empowering a Smarter, More Sustainable Future</h2>
-                                    <p class="mt-4">At Gradsys, we are committed to delivering innovative engineering and technology solutions that help businesses achieve greater efficiency, sustainability, and long-term value. Our expertise spans intelligent infrastructure, renewable energy integration, automation, and smart technology systems designed to meet the evolving demands of modern industries.</p>
+                                    <p class="mt-4">At Vortex, we are committed to delivering innovative engineering and technology solutions that help businesses achieve greater efficiency, sustainability, and long-term value. Our expertise spans intelligent infrastructure, renewable energy integration, automation, and smart technology systems designed to meet the evolving demands of modern industries.</p>
                                     <p class="">With a team of experienced engineers, designers, and technology specialists, we transform ideas into practical, future-ready solutions. Every project is built on a foundation of quality, innovation, and environmental responsibility, ensuring reliable performance while reducing operational costs and supporting sustainable growth. </p>
                                 </div>
 

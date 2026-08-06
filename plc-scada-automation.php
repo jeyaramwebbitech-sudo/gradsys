@@ -59,7 +59,7 @@
                                     <h2
                                         class="rs-section-title has-theme-light-blue rs-split-text-enable split-in-fade mb-30 ">
                                         Intelligent Automation for Smarter Operations</h2>
-                                    <p>GRADSYS delivers advanced industrial automation solutions that improve operational efficiency, enhance productivity, and provide real-time visibility into plant performance.</p>
+                                    <p>Vortex delivers advanced industrial automation solutions that improve operational efficiency, enhance productivity, and provide real-time visibility into plant performance.</p>
                                 </div>
 
                             </div>
@@ -266,7 +266,7 @@
                     <div class="rs-cta-wrapper" style="background: #002d56;padding: 30px;border-radius: 2px;">
                         <div class="rs-cta-item text-center">
                             <div class="rs-cta-text m-0 text-white" style="color: #fff;font-size: 20px;">
-                                All Leading PLC / SCADA / Automation Industrial Systems are supported.
+                                All Leading PLC / SCADA / Industrial Automation Systems are supported.
                                 </div>
                         </div>
                     </div>

@@ -56,7 +56,7 @@
                                     <h2
                                         class="rs-section-title has-theme-light-blue rs-split-text-enable split-in-fade mb-30 ">
                                         Smart Building and Digital Infrastructure Solutions</h2>
-                                    <p>GRADSYS supplies a comprehensive range of Extra Low Voltage (ELV) products and intelligent building <br> technologies designed to improve safety, communication, connectivity, and operational efficiency..</p>
+                                    <p>Vortex supplies a comprehensive range of Extra Low Voltage (ELV) products and intelligent building <br> technologies designed to improve safety, communication, connectivity, and operational efficiency..</p>
                                 </div>
 
                             </div>
@@ -339,7 +339,7 @@
                     <div class="col-xl-8 col-lg-9 col-md-10">
                         <div class="rs-section-title-wrapper text-center section-title-space">
                             <h2 class="rs-section-title has-theme-blue rs-split-text-enable split-in-fade">
-                                Why Choose GRADSYS
+                                Why Choose Vortex
                             </h2>
                         </div>
                     </div>

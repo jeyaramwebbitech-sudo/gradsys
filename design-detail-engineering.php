@@ -43,7 +43,7 @@
                     <div class="col-xl-12">
                         <div class="rs-section-title-wrapper">
                             <h2 class="rs-section-title rs-split-text-enable split-in-fade mb-2">Engineering Precision from Concept to Construction</h2>
-                            <p class="descrip-2 mb-5">GRADSYS delivers multidisciplinary detailed engineering solutions that convert conceptual designs into construction-ready documentation while ensuring safety, quality, and cost efficiency.</p>
+                            <p class="descrip-2 mb-5">Vortex delivers multidisciplinary detailed engineering solutions that convert conceptual designs into construction-ready documentation while ensuring safety, quality, and cost efficiency.</p>
                         </div>
                     </div>
                 </div>

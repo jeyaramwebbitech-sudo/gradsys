@@ -53,9 +53,8 @@
                                 </div>
                                 <div class="rs-contact-content">
                                     <h5 class="rs-contact-title">Our Location </h5>
-                                    <a href="#">Building A1, Dubai Digital Park,
-                                        Dubai Silicon Oasis, Dubai,
-                                        United Arab Emirates</a>
+                                    <a href="#">
+                                        Public post Ennasr BP 292 , CP: 2001 Ariana Tunis ,Tunisia.</a>
                                 </div>
                             </div>
 
@@ -86,8 +85,8 @@
                                 </div>
                                 <div class="rs-contact-content">
                                     <h5 class="rs-contact-title">Chat to Support</h5>
-                                    <a href="mailto:info@gradsystech.com">info@gradsystech.com</a>
-                                    <a href="mailto:sales@gradsystech.com">sales@gradsystech.com</a>
+                                    <a href="mailto:info@vortextech.com">info@vortextech.com</a>
+                                    <a href="mailto:sales@vortextech.com">sales@vortextech.com</a>
                                 </div>
                             </div>
 
@@ -109,7 +108,7 @@
                                 </div>
                                 <div class="rs-contact-content">
                                     <h5 class="rs-contact-title">Call Us </h5>
-                                    <a href="tel:+971552239870">+971 55 223 9870</a>
+                                    <a href="tel:+21628496907">+216 28 496 907</a>
                                     <!-- <a href="tel:+97433629659">+974 3362 9659</a>  -->
                                 </div>
                             </div>

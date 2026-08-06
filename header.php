@@ -4,7 +4,7 @@
 
   
 <div class="floating_btn">
-    <a target="_blank" href="https://wa.me/+971552239870">
+    <a target="_blank" href="https://wa.me/+21628496907">
         <div class="contact_icon">
             <i class="fa-brands fa-whatsapp"></i>
         </div>

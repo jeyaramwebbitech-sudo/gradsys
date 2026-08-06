@@ -59,7 +59,7 @@
                                     <h2
                                         class="rs-section-title has-theme-light-blue rs-split-text-enable split-in-fade mb-30 ">
                                         Reliable Mechanical Engineering Solutions</h2>
-                                    <p>GRADSYS provides complete mechanical engineering and construction services for process plants, industrial facilities, and infrastructure projects.</p>
+                                    <p>Vortex provides complete mechanical engineering and construction services for process plants, industrial facilities, and infrastructure projects.</p>
                                 </div>
 
                             </div>

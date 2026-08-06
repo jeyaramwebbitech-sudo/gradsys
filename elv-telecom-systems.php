@@ -59,7 +59,7 @@
                                     <h2
                                         class="rs-section-title has-theme-light-blue rs-split-text-enable split-in-fade mb-30 ">
                                         Smart Connectivity for Modern Infrastructure</h2>
-                                    <p>GRADSYS designs and implements integrated Extra Low Voltage (ELV) and Telecommunications systems that provide secure communication and intelligent digital infrastructure.</p>
+                                    <p>Vortex designs and implements integrated Extra Low Voltage (ELV) and Telecommunications systems that provide secure communication and intelligent digital infrastructure.</p>
                                 </div>
 
                             </div>
